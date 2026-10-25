@@ -1,0 +1,17 @@
+{
+  "name": "test-quality",
+  "owner": {
+    "name": "grind-t",
+    "email": "grindt.gd@gmail.com"
+  },
+  "metadata": {
+    "description": "Принципы качества тестов (skills) для Claude Code и Codex"
+  },
+  "plugins": [
+    {
+      "name": "test-quality",
+      "source": "./",
+      "description": "Принципы качества тестов (skills) для Claude Code и Codex"
+    }
+  ]
+}
